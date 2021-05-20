@@ -751,9 +751,9 @@ header {
   padding: 10px;
   background-color: #1977cc;
   color: white;
-  border-radius: 50px;
-  margin-left: 30%;
-  margin-right: 30%;
+  border-radius: 30px;
+  margin-left: 100px;
+  margin-right: 100px;
 
 }
 .section-title{
@@ -762,7 +762,7 @@ header {
   margin-bottom: 10px;
 }
 .submit-button{
-  border-radius: 50px;
+  border-radius: 30px;
   background-color: #1977cc;
   color: white;
   padding: 10px;
