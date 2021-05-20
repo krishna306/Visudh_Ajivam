@@ -715,6 +715,7 @@ header {
   font-size: 30px;
   margin-left: 5px;
   margin-bottom: 10px;
+  font-weight: bold;
   
 }
 .count-box .text-primary{
@@ -738,6 +739,9 @@ header {
   padding: 10px;
   margin-top: 10px;
 }
-.container{
-  margin-top: 20px;
+.with-medical{
+  background-color: #d6eeee;
+}
+.new{
+  margin-bottom: 20px;
 }
