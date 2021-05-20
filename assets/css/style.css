@@ -734,6 +734,7 @@ header {
   background-color: #00ab9f;
   border-radius: 50px;
   padding: 10px;
+  margin: 5px;
 }
 .count-box p{
   padding: 10px;
@@ -744,4 +745,27 @@ header {
 }
 .new{
   margin-bottom: 20px;
+}
+.appointment{
+  text-align: center;
+  padding: 10px;
+  background-color: #1977cc;
+  color: white;
+  border-radius: 50px;
+  margin-left: 30%;
+  margin-right: 30%;
+
+}
+.section-title{
+  text-align: center;
+  padding: 5px;
+  margin-bottom: 10px;
+}
+.submit-button{
+  border-radius: 50px;
+  background-color: #1977cc;
+  color: white;
+  padding: 10px;
+  border: none;
+
 }
